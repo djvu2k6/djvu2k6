@@ -1,4 +1,3 @@
-[# 💫 About Me:
 Aspiring Full-Stack Developer | Building sleek web apps with React & Tailwind | Open to collaborations
 
 
