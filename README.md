@@ -13,10 +13,9 @@
 
 - 🌱 Currently learning **Full-Stack Development & React Ecosystem**
 - 💻 Building projects with **React, Next.js, Tailwind & TypeScript**
-<!--- 🔥 Recently contributed to **OpenTelemetry Ecosystem Explorer**-->
 - 🎯 Interested in **Frontend Engineering, UI/UX & Open Source**
 - ⚡ Love building smooth and visually polished interfaces
-
+<!--- 🔥 Recently contributed to **OpenTelemetry Ecosystem Explorer**-->
 ---
 
 ## 🌐 Connect With Me
